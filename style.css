@@ -1,0 +1,60 @@
+body, html{
+ height: 3344px;
+ width: 1920px;
+}
+
+.signature{
+ color: #a3dc32;
+}
+
+.contact{
+ text-align: left;
+ color: #FFFFFF;
+ font: light 22px/28px;
+ letter-spacing: 0px;
+ opacity: 1;
+ top: 50px;
+ left: 1504px;
+ width: 278px;
+ height: 28px;
+}
+
+.title {
+ text-align: left;
+ color: #FFFFFF;
+ font: bold 48px/60px;
+ letter-spacing: 0px;
+ opacity: 1;
+ top: 34px;
+ left: 140px;
+ width: 476px;
+ height: 60px;
+}
+
+.hero-image {
+
+ background-image: url(css/img/cold-conifers-dawn-2869530.png);
+ filter: blur(27px);
+ -webkit-filter: blur(27px);
+ filter: brightness(3);
+ top: 0px;
+ left: 0px;
+ height: 1080px;
+ width: 1920px;
+ opacity: 1;
+ background-position: center;
+ background-repeat: no-repeat;
+ position: relative;
+}
+
+.hero-text {
+ text-align: left;
+ color: #FFFFFF;
+ font: bold 39px/91px;
+ letter-spacing: 0px;
+ opacity: 1;
+ top: 516px;
+ left: 141px;
+ width: 595px;
+ height: 49px;
+}
